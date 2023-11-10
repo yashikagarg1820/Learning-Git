@@ -1,0 +1,2 @@
+git init
+Usage: git init [repository name]
