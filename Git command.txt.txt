@@ -1,2 +1,8 @@
 git init
 Usage: git init [repository name]
+
+git clone
+Usage: git clone [url]  
+
+git add
+Usage: git add [file]  
